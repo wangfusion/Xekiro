@@ -1,2 +1,2 @@
-# Xekiro
+# Xeriko
 A digital coin platform
