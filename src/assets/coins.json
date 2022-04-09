@@ -1,0 +1,92 @@
+[
+    { 
+        "rank": 1, 
+        "name": "Bitcoin", 
+        "price": 42480, 
+        "dayChange": -2.04, 
+        "weekChange": -8.83, 
+        "marketCap": 807607367248, 
+        "dayVolume": 25857675066 
+    },
+    { 
+        "rank": 2, 
+        "name": "Ethereum", 
+        "price": 3210.55, 
+        "dayChange": -1.52, 
+        "weekChange": -7.96, 
+        "marketCap": 386388034197, 
+        "dayVolume": 15179047014
+    },
+    { 
+        "rank": 3, 
+        "name": "Tether", 
+        "price": 1, 
+        "dayChange": -0.01, 
+        "weekChange": -0.02, 
+        "marketCap": 1, 
+        "dayVolume":1 
+    },
+    { 
+        "rank": 4, 
+        "name": "BNB", 
+        "price": 426.78, 
+        "dayChange": 0.22, 
+        "weekChange": -0.02, 
+        "marketCap": 1, 
+        "dayVolume":1 
+    },
+    { 
+        "rank": 5, 
+        "name": "USD Coin", 
+        "price": 1, 
+        "dayChange": 0.07, 
+        "weekChange": -0.02, 
+        "marketCap": 1, 
+        "dayVolume":1 
+    },
+    { 
+        "rank": 6, 
+        "name": "XRP", 
+        "price": 0.763, 
+        "dayChange": 1.12, 
+        "weekChange": -0.02,
+        "marketCap": 1, 
+        "dayVolume":1 
+    },
+    { 
+        "rank": 7, 
+        "name": "Solana", 
+        "price": 110.45, 
+        "dayChange": 4.31, 
+        "weekChange": -0.02, 
+        "marketCap": 1, 
+        "dayVolume":1 
+    },
+    { 
+        "rank": 8, 
+        "name": "Cardano", 
+        "price": 1.04, 
+        "dayChange": 3.22, 
+        "weekChange": -0.02, 
+        "marketCap": 1, 
+        "dayVolume":1 
+    },
+    { 
+        "rank": 9, 
+        "name": "Terra", 
+        "price": 94.77, 
+        "dayChange": 5.10, 
+        "weekChange": -0.02, 
+        "marketCap": 1, 
+        "dayVolume":1 
+    },
+    { 
+        "rank": 10, 
+        "name": "Avalanche", 
+        "price": 84.02, 
+        "dayChange": 2.92, 
+        "weekChange": -0.02, 
+        "marketCap": 1, 
+        "dayVolume":1 
+    }
+]
